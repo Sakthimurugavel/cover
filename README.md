@@ -128,6 +128,8 @@ User CSS properties and design book cover page
 ```
 ## Output:
 ![OUTPUT](out.png)
+
+## HTML VALIDATOR:
 ![OUTPUT](valid.png)
 
 
